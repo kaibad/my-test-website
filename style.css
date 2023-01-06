@@ -7,6 +7,15 @@ body {
   color: #fff;
 }
 h1 {
-  color: black;
+  color black;
+  /* text-align: center; */
+}
+
+.my-column{
+  background: #000;
+  margin-bottom: 30px;
   text-align: center;
+  min-height: 100px;
+  align-items: center;
+    
 }

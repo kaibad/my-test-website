@@ -1,0 +1,26 @@
+bootstrap class
+===============
+.container
+max-width:1170px;
+.container-fluid
+max-width: 100% - 30px
+ .row
+ ==========
+
+ Breaking points(column)
+ ====================
+ min-width        max-width
+ ----------------------
+ .col-lg(laptop/desktop)
+ 1200px >=.................
+
+
+ .col-md(laptop/desktop)
+ 992px     to   1199px
+
+
+.col-sm(tablet)
+768px      to   991px
+
+.col-xs(Mobile)
+360px   to   767PX
