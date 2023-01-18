@@ -24,3 +24,8 @@ max-width: 100% - 30px
 
 .col-xs(Mobile)
 360px   to   767PX
+
+=========v 5=======
+sm:> 576px - 767PX
+md:>=768px
+lg:>
